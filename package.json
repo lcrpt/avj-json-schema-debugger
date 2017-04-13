@@ -1,0 +1,15 @@
+{
+    "name": "avj-json-schema-debugger",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:leolassence/node-debugger.git",
+    "author": "leolassence <leolassence@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodemon start"
+    },
+    "dependencies": {
+        "ajv": "^4.11.6",
+        "lodash": "^4.17.4"
+    }
+}
