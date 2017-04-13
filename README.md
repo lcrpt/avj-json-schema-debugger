@@ -1,8 +1,14 @@
-# node-debugge
+# avj-json-schema-debugger
 
-Debug your javascript code as fast as you can :)
+Debug avj json schema tool
 
-### run it 
+### run it
+
+
 `yarn install`
-`nvm use`
+
+
+`nvm use 7.6`
+
+
 `make start`
